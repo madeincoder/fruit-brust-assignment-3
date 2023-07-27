@@ -1,0 +1,16 @@
+/*global css style*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section-width{
+    max-width: 1440px;
+}
+
+.team-banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(68, 67, 67, 0.39)),
+      url("../images/banner3.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
